@@ -15,7 +15,7 @@ go build -o static-server cmd/server/main.go
 
 Start the server:
 ```bash
-./static-server -dir /path/to/files -port 8080
+./static-server -dir /static-files port 8080
 ```
 
 Options:
