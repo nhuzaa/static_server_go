@@ -29,18 +29,6 @@ go test -v ./pkg/server
 ```
 
 ## Project Structure
-
-```
-├── cmd/server/    # Main application
-├── pkg/server/    # Server implementation
-└── test-files/    # Example files
-```
-
-## License
-
-MIT
-
-## Project Structure
 ```
 static-file-server/
 ├── cmd/
